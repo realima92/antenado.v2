@@ -1,0 +1,24 @@
+{
+  "name": "antenado.v2",
+  "version": "1.0.0",
+  "description": "versão do site usando pacote angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realima92/antenado.v2.git"
+  },
+  "author": "Renato Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realima92/antenado.v2/issues"
+  },
+  "homepage": "https://github.com/realima92/antenado.v2#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
